@@ -1,19 +1,21 @@
 ---
 title: Cookies da Zazá
 subtitle: Macios por dentro, crocantes por fora.
-image: /img/home-jumbotron.jpg
+image: img/img_8262.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: " "
+  text: >-
+    Deliciosos, simples, fresquinhos. Criados com carinho e dedicação pela Zazá
+    pra você.
+
+
+    Aqui você sabe quem faz os cookies que você vai comer!
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: O que oferecemos
+  text: Nosso maior compromisso é com a qualidade. Por isso utilizamos os melhores
+    ingredientes em nossos cookies. Fazemos questão de não adicionar
+    conservantes aos nossos biscoitinhos, que são feitos de forma artesanal e
+    com o cuidado e atenção que um alimento deve ter.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
