@@ -1,7 +1,7 @@
 ---
 title: Cookies da Zazá
 subtitle: Macios por dentro, crocantes por fora.
-image: img/img_8262.jpg
+image: img/20200517_092550.jpg
 blurb:
   heading: " "
   text: >-
