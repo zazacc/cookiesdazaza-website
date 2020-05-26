@@ -72,6 +72,14 @@
   background-color: var(--black);
 }
 
+.bg-cinza {
+  background-color:  var(--cinza);
+}
+
+.bg-coral {
+  background-color: var(--coral);
+}
+
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {
