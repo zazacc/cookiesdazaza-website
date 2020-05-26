@@ -1,7 +1,7 @@
 ---
-title: 
-subtitle: 
-image: img/cookiesdazaza-header.jpg
+title: Cookies da Zazá
+subtitle: Macios por dentro, crocantes por fora
+image: img/header-porto.jpg
 blurb:
   heading: 
   text: >-
