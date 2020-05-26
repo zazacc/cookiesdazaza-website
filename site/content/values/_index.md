@@ -1,40 +1,19 @@
 ---
-title: Sobre
-image: /img/about-jumbotron.jpg
+title: Sobre a Mestre Cuca Zazá
+image: /img/cookie-ou-bolacha.jpg
 values:
-  - heading: Shade-grown coffee
+  - heading: 
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-    imageUrl: /img/about-shade-grown.jpg
-  - heading: Single origin
+      Quem não sonha ter sua paixão como trabalho?
+      
+      O Cookies da Zazá começou assim, com a paixão pelo cookie bem feito, com ingredientes de primeira, selecionados para agradar gente querida com uma fornada de biscoitos fresquinhos.
+    imageUrl: /img/zaza-01.jpg
+  - heading: 
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
+      E sabe o que Zazá ouvia a cada vez que compartilhava uma nova fornada de cookies? “Que delícia! Você tinha que vender isso!”. Pois assim a ideia foi amadurecendo, Zazá passou pelo árduo trabalho de provar novas e tradicionais receitas, e agora divide sua paixão e suas melhores criações com vocês.
+    imageUrl: /img/zaza-02.jpg
+  - heading: 
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
+      Como toda cozinheira que bota o coração nas mãos, Zazá adora ver a reação de quem prova suas delícias. Os Cookies da Zazá te fizeram feliz? Faça a Zazá feliz compartilhando uma foto desse momento com a hashtag #cookiesdazaza. O cookie preferido da Zazá é o de pedaços de chocolate com creme de avelã. E o seu, já descobriu?
+    imageUrl: /img/zaza-03.jpg
 ---

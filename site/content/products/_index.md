@@ -1,53 +1,50 @@
 ---
 title: Nossos Cookies
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/maos-segurando-um-cookie.jpg
 heading: 
 description: 
 intro:
   blurbs:
-    - image: /img/icone-cookie.svg
+    - image: /img/cookiesdazaza-cookie-bff.jpg
       text: >
-        BFF (Pedaços de chocolate dark)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate dark. Contém pedaços de chocolate dark, e doses de afeto.
+    - image: /img/cookiesdazaza-cookie-lol.jpg
       text: >
-        LOL (Pedaços de chocolate dark com nozes)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate dark com nozes. Contém pedaços de chocolate dark, nozes e doses de alegria.
+    - image: /img/cookiesdazaza-cookie-yolo.jpg
       text: >
-        YOLO (Pedaços de chocolate dark com boom de creme de avelã)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate dark com creme de avelã. Contém pedaços de chocolate dark, recheio de creme de avelã e doses de coragem.
+    - image: /img/cookiesdazaza-cookie-wtf.jpg
       text: >
-        WTF (Pedaços de chocolate dark com boom de manteiga de amendoim)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate dark com manteiga de amendoim. Contém pedaços de chocolate dark, recheio de manteiga de amendoim e doses de indignação.
+    - image: /img/cookiesdazaza-cookie-plz.jpg
       text: >
-        PLZ (Pedaços de chocolate)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate. Contém pedaços de chocolate e doses de desejo.
+    - image: /img/cookiesdazaza-cookie-tldr.jpg
       text: >
-        TL;DR (Pedaços de chocolate com nozes)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate com nozes. Contém pedaços de chocolate, nozes e doses de preguiça.
+    - image: /img/cookiesdazaza-cookie-nsfw.jpg
       text: >
-        NSFW (Pedaços de chocolate com creme de avelã)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate com creme de avelã. Contém pedaços de chocolate, recheio de creme de avelã e doses de audácia.
+    - image: /img/cookiesdazaza-cookie-tgif.jpg
       text: >
-        TGIF (Pedaços de chocolate com manteiga de amendoim)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate com manteiga de amendoim. Contém pedaços de chocolate ao leite e doses de alívio.
+    - image: /img/cookiesdazaza-cookie-yas.jpg
       text: >
-        LMAO (Pedaços de chocolate branco)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate branco com pistácio. Contém pedaços de chocolate branco, pistácios e doses de otimismo.
+    - image: /img/cookiesdazaza-cookie-lmao.jpg
       text: >
-        YEP! (Pedaços de chocolate branco com limão)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate branco. Contém pedaços de chocolate branco e doses de descontrole.
+    - image: /img/cookiesdazaza-cookie-yep.jpg
       text: >
-        YAS! (Pedaços de chocolate branco com pistacio)
-    - image: /img/icone-cookie.svg
+        Pedaços de chocolate branco com limão. Contém pedaços de chocolate branco, leve sabor de limão e doses de alegria.
+    - image: /img/cookiesdazaza-cookie-omg.jpg
       text: >
-        OMG! (Duplo chocolate)
-    - image: /img/icone-cookie.svg
+        Duplo chocolate. Contém pedaços de chocolate dark em massa de cacau e doses de admiração.
+    - image: /img/cookiesdazaza-cookie-ftw.jpg
       text: >
-        FTW! (Duplo chocolate e nozes)
-    - image: /img/icone-cookie.svg
-      text: >
-        YAY! (Pedaços de chocolate com confeitos)
+        Duplo chocolate e nozes. Contém pedaços de chocolate dark em massa de cacau, nozes e doses de sucesso.
     
   heading: 
   description: 

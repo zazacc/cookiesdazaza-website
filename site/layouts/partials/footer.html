@@ -1,21 +1,13 @@
-<footer class="bg-black ph3 pv4 white">
+<footer class="bg-coral ph3 pv4 white">
 
 	<div class="mw7 center pt3">
 
-		<div class="measure-narrow center mb4">
-
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Assinar Newsletter</p>
-			<p>Receba nossas novidades, por e-mail, a cada duas semanas.</p>
-
-			{{ partial "newsletter-form" . }}
-
-		</div>
+		
 
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Cookies da Zazá</h3>
+				<h3 class="f4 b lh-title mb1 white">Cookies da Zazá</h3>
 				<ul class="mb3">
 					<li><a href="/" class="link">Principal</a></li>
 					<li><a href="/products" class="link">Nossos produtos</a></li>
@@ -24,22 +16,18 @@
 					<li><a href="/contact" class="link">Contato</a></li>
 				</ul>
 			</div>
-			<!--
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Saiba mais</h3>
-				<ul class="mb3">
-					<li><a href="/post/#" class="link">Últimas ofertas</a></li>
-					<li><a href="/contact" class="link">Horários</a></li>
-				</ul>
+
+			<div class="measure-narrow center mb4">
+			
+				<img src="/img/logo-arredondada-branca-fundo_vermelho.svg" alt="Logo da Cookies da Zazá" class="db w4 center mb4 br0">
+			
 			</div>
-			-->
+
 			<div>
-				<h3 class="f4 b lh-title mb2 primary">Mídias Sociais</h3>
+				<h3 class="f4 b lh-title mb2 white">Mídias Sociais</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
+					{{ partial "social-icon" (dict "link" "https://instagram.com/cookiesdazaza" "svg" "icons-instagram") }}
+					{{ partial "social-icon" (dict "link" "https://facebook.com/cookiesdazaza" "svg" "icons-facebook") }}
 				</ul>
 			</div>
 
