@@ -15,7 +15,8 @@ intro:
 products:
   - image: img/cookiesdazaza-cookie-ftw.jpg
     text: >
-        Duplo chocolate e nozes. Contém pedaços de chocolate dark em massa de cacau, nozes e doses de sucesso.
+      Pedaços de chocolate dark em massa de cacau, nozes e doses de sucesso.
   - image: /img/cookiesdazaza-cookie-yas.jpg
-    text: Pedaços de chocolate branco com pistácio. Contém pedaços de chocolate branco, pistácios e doses de otimismo.
+    text: > 
+      Pedaços de chocolate branco, pistácios e doses de otimismo.
 ---
