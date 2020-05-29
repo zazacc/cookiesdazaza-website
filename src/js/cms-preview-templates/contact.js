@@ -7,7 +7,7 @@ const ContactEntry = ({heading, text}) =>
   </div>;
 
 const ContactEntries = ({data}) => data && data.length > 0
-    ? <div className="flex-ns mb3">
+    ? <div className="mb3">
       {data.map(({heading, text}) => <ContactEntry heading={heading} text={text} />)}
     </div>
     : "";
