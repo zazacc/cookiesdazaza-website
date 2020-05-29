@@ -29,7 +29,7 @@ intro:
         Pedaços de chocolate, recheio de creme de avelã e doses de audácia.
     - image: /img/cookiesdazaza-cookie-tgif.jpg
       text: >
-        Pedaços de chocolate ao leite e doses de alívio.
+        Pedaços de chocolate ao leite com manteiga de amendoim e doses de alívio.
     - image: /img/cookiesdazaza-cookie-yas.jpg
       text: >
         Pedaços de chocolate branco, pistácios e doses de otimismo.
