@@ -8,7 +8,7 @@ intro:
   blurbs:
     - image: /img/cookiesdazaza-cookie-bff.jpg
       text: >
-        Pedaços de chocolate dark, e doses de afeto.
+        Pedaços de chocolate dark e doses de afeto.
     - image: /img/cookiesdazaza-cookie-lol.jpg
       text: >
         Pedaços de chocolate dark, nozes e doses de alegria.
