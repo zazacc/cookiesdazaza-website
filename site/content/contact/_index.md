@@ -21,7 +21,9 @@ contact_entries:
     text: >
       Os pedidos devem ser realizados até às 20h do dia anterior à entrega.
       As entregas são feitas mediante pagamento prévio.
-  - heading: Área de entrega
+  - heading: Estamos no Porto. Entregamos em todo canto de Portugal continental
+    text: 
+  - heading: Área de entrega - Porto
     text: >
       Aldoar / 
       Avintes / 
@@ -53,6 +55,12 @@ contact_entries:
       Valadares / 
       Vilar de Andorinho / 
       Vilar do Paraíso
-  - heading: 
-    text: Estamos na cidade do Porto, Portugal. Consulte abaixo, as áreas de entrega.
+  - heading: Portugal Continental e outros concelhos do Grande Porto
+    text: >
+      As encomendas são enviadas por transportadora após confirmação de pagamento.
+      
+      Envios realizados de segunda à quarta feira.
+      
+      Entregas têm um custo de €3,50 (sem código de rastreamento) ou de €5 (com código de rastreamento).
+
 ---
