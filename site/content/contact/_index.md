@@ -61,6 +61,6 @@ contact_entries:
       
       Envios realizados de segunda à quarta feira.
       
-      Entregas têm um custo de €3,50 (sem código de rastreamento) ou de €5 (com código de rastreamento).
+      Entregas têm um custo de €7,00 (envio expresso via CTT).
 
 ---
